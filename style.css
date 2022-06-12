@@ -1,0 +1,83 @@
+@font-face{
+    font-family: 'Raleway-SemiBoldItalic';
+    src: url('Raleway-SemiBoldItalic.ttf');
+}
+h1{
+    text-align: center;
+}
+p{
+    font-family:Raleway-semiBoldItalic;
+    font-size: 2em;
+    /* font-family:sans-serif; */
+    color:darkgray;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    /* font-size: larger; */
+    /* font-size: 20px; */
+    /* font-size: 100% ; */
+}
+h2
+{
+    font-weight:bold;
+}
+.style{
+    font-style:italic;
+}
+.transform{
+    /* text-transform: uppercase; */
+    /* text-transform: lowercase; */
+    text-transform: capitalize;
+
+}
+.decoration{
+    text-transform: capitalize;
+    color: blue;
+    /* text-decoration:underline; */
+    /* text-decoration:overline; */
+}
+.height{
+    /* line-height: 2.5em; */
+    line-height: 120px;
+}
+.spacing{
+letter-spacing: 1em;
+
+}
+.sa{
+    /* word-spacing: 50px; */
+    word-spacing: 2em;
+}
+
+.indent{
+    /* text-align: center; */
+    /* text-align:right; */
+    /* text-align: left; */
+    text-align: justify;
+    
+}
+.vertical{
+    vertical-align:text-bottom;
+    color: brown;
+}
+.ind
+{
+    text-indent: 650px;;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
